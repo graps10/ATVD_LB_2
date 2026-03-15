@@ -1,4 +1,4 @@
-package com.example;
+package com.example.lb_2;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
